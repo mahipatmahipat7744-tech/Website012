@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Continue</title>
+</head>
+
+<body style="text-align:center; padding-top:100px;">
+
+  <h2>Welcome</h2>
+
+  <button onclick="openLink()"
+    style="font-size:22px; padding:15px 35px;">
+    CLICK TO CONTINUE
+  </button>
+
+  <script>
+    function openLink() {
+      window.location.href = "https://teenpatti.game/share/index.html?i=12575048&c=Magicspinslots406FX01&e=pro&s=c";
+    }
+  </script>
+
+</body>
+</html>
